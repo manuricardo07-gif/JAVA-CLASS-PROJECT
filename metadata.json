@@ -1,0 +1,5 @@
+{
+  "name": "Java Swing Budget Tracker",
+  "description": "A personal budget tracker application written in Java Swing with custom graphics.",
+  "requestFramePermissions": []
+}
